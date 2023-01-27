@@ -24,9 +24,6 @@ namespace CSharpExam
 
                 var option = Console.ReadLine();
 
-                BuildReport report = new BuildReport();
-                string json = report.Execute();
-                Console.WriteLine(json);
                 switch (option)
                 {
                     case "1":
@@ -47,7 +44,9 @@ namespace CSharpExam
                         break;
                     case "5":
                         // Quit
-
+                        // Build report
+                        var report = new BuildReport();
+                        Console.WriteLine(report.Execute());
                         return;
                     default:
                         Console.WriteLine("Invalid option");

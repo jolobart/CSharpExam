@@ -24,6 +24,7 @@ namespace CSharpExam.Commands
             var totalSales = salesEmployees.Sum(salesEmployee => salesEmployee.GetSales().Sum(sale => sale.Amount));
             var totalCommission = salesEmployees.Sum(salesEmployee => salesEmployee.GetSales().Sum(sale => sale.Amount * salesEmployee.Commission));
 
+            // Creates a new object with desired structure
             var report = new
             {
                 employees = employees.Select(e => new { e.Id, e.EmployeeNumber, e.FirstName, e.LastName, e.BaseSalary }),
@@ -38,6 +39,7 @@ namespace CSharpExam.Commands
                 WriteIndented = true
             };
 
+            // Converts report obj to json
             return JsonSerializer.Serialize(report, seralizerOptions);
         }
     }
