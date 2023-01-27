@@ -1,0 +1,15 @@
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\bin\Debug\net6.0\C-SharpExam.exe
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\bin\Debug\net6.0\C-SharpExam.deps.json
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\bin\Debug\net6.0\C-SharpExam.runtimeconfig.json
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\bin\Debug\net6.0\C-SharpExam.dll
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\bin\Debug\net6.0\C-SharpExam.pdb
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.csproj.AssemblyReference.cache
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.AssemblyInfoInputs.cache
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.AssemblyInfo.cs
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.csproj.CoreCompileInputs.cache
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.dll
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\refint\C-SharpExam.dll
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.pdb
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\C-SharpExam.genruntimeconfig.cache
+C:\Workspace\Training\C-Sharp\Exam\C-SharpExam\obj\Debug\net6.0\ref\C-SharpExam.dll
